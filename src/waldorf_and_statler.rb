@@ -59,3 +59,4 @@ end
 # structs
 # scope resolution operator ::
 # hash and hash accumulation
+# iterators
