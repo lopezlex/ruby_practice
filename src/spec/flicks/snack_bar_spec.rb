@@ -1,0 +1,1 @@
+require 'flicks/snack_bar'
