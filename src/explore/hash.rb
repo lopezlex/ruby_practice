@@ -17,6 +17,8 @@ snacks_carbs.each do |name, carbs|
   puts "#{name} has #{carbs} carbs"
 end
 
+
+
 # curly bracket block
 snacks_carbs.each {|name, carbs| puts "#{name} has #{carbs} carbs"}
 
